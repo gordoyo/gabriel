@@ -1,0 +1,23 @@
+body {
+width: 100%;
+background-color :greenyellow;
+margin: 0;
+}
+.watermello {
+font-family: 'Arvo', serif;
+}
+
+.colour-different {
+background-color: red;
+}
+img{
+  padding-left: 10px;
+  padding-right:30px;
+  padding-top:40px;
+  padding-bottom:100px;
+  width: 300px;
+  border: 10px dotted
+  red;
+}
+
+
